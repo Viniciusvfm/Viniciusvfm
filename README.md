@@ -12,7 +12,7 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;"src="https://png.pngtree.com/template/20191127/ourmid/pngtree-viking-esports-logo-image_336321.jpg">
+  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;"src="https://i.pinimg.com/originals/07/b9/e9/07b9e9e5faafe74d30fdd95ad2c5c8b5.jpg">
 </div>
 
   ##
