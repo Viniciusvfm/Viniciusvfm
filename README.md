@@ -27,6 +27,6 @@
 </div>
   
   
-- 🔭 Eu estou trabalhando com Front-end.
-- 🌱 Estou estudando JS.
+
+- 🌱 Estou estudando Python | Java | SQL.
 - 😄 Pronouns:ele/dele
